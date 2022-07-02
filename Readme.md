@@ -27,6 +27,8 @@
 
 [<img align="left" alt="Android Studio" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />][github]
 
+[<img align="left" alt="Flutter" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" style="padding-right:10px;" />][github]
+
 [<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][github]
 
 [<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][github]
