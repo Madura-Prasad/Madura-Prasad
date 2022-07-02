@@ -12,7 +12,7 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/madura-prasad#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/madura-prasad#gh-dark-mode-only)
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <br/>
 
