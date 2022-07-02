@@ -1,4 +1,4 @@
-### Hi there, I'm [Madura Prasad][maduraprasad.ml]
+### Hi there, I'm Madura Prasad [maduraprasad.ml]
 
 ## I'm a Undergraduate Student & Developer!
 - 🌱 I’m currently learning everything 🤣
