@@ -19,7 +19,7 @@
 
 ### Language and Tools:
 
-[<img align="left" alt="Visula Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>][github]
+[<img align="left" alt="Visula Studio Code" width="260px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>][github]
 
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][github]
 
