@@ -7,10 +7,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="maduraprasad.ml" targrt="_blank" width="22px" src="img/globe-dark.svg"/>][website]
-[<img align="left" alt="maduraprasad.ml"  targrt="_blank" width="22px" src="img/globe-light.svg"/>][website]
+[<img align="left" alt="maduraprasad.ml" width="22px" src="img/globe-dark.svg"/>][website]
+[<img align="left" alt="maduraprasad.ml"  width="22px" src="img/globe-light.svg"/>][website]
 
-[<img align="left" alt="Madura" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="Madura" width="22px" src="img/linkedin-dark.svg"/>][linkedin]
+[<img align="left" alt="Madura" width="22px" src="img/linkedin-light.svg"/>][linkedin]
+
 
 <br/>
 
