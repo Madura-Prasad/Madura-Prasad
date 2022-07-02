@@ -2,7 +2,6 @@
 
 ## I'm a Undergraduate Student & Developer!
 - 🌱 I’m currently learning everything 🤣
-<!-- - 👯 I’m looking to collaborate with other content creators -->
 - 🥅 2022 Goals: Learn more about App Development
 - ⚡ Fun fact: I love to code and listening music
 
