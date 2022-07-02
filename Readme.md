@@ -46,7 +46,7 @@
 <br/>
 
 
-  <img align="left" alt="Madura GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Madura-Prasad&show_icons=true&hide_border=false&title_color=FFAB76&icon_color=FFE400&bg_color=09131B&text_color=FFE61B&border_color=8CC0DE" />
+  <img align="left" alt="Madura GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Madura-Prasad&show_icons=true&hide_border=false&title_color=FFAB76&icon_color=FFE400&bg_color=09131B&text_color=FFE61B&border_color=00FFAB" />
 
 [website]: http://maduraprasad.ml
 [linkedin]: https://www.linkedin.com/in/madura-prasad
