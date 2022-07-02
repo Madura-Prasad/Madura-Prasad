@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="maduraprasad.ml" width="22px" src="https://raw.githubusercontent.com/iconoc/open-iconic/master/svg/globe.svg"/>][website]
+[<img align="left" alt="maduraprasad.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 
 [<img align="left" alt="Madura" width="22px" src="https://cdn.jsdeliver.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin](https://www.linkedin.com/in/madura-prasad/)]
 
