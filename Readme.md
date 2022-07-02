@@ -44,8 +44,6 @@
 [<img align="left" alt="Figma" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" style="padding-right:10px;" />][github]
 
 
-<br/>
-
 [website]: http://maduraprasad.ml
 [linkedin]: https://www.linkedin.com/in/madura-prasad
 [github]: https://github.com/Madura-Prasad
