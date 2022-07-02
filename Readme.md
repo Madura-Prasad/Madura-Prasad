@@ -14,7 +14,6 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/madura-prasad#gh-dark-mode-only)
 
 
-<br/>
 
 
 ### Language and Tools:
