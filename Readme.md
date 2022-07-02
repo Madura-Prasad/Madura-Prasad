@@ -1,4 +1,4 @@
-### Hi there, I'm Madura Prasad [Madura][website]
+### Hi there, I'm [Madura Prasad][website]
 
 ## I'm a Undergraduate Student & Developer!
 - 🌱 I’m currently learning everything 🤣
