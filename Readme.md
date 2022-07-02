@@ -7,13 +7,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="maduraprasad.ml" width="22px" src="img/globe-dark.svg"/>][website]
-[<img align="left" alt="maduraprasad.ml"  width="22px" src="img/globe-light.svg"/>][website]
-
-[<img align="left" alt="Madura" width="22px" src="img/linkedin-dark.svg"/>][linkedin]
-[<img align="left" alt="Madura" width="22px" src="img/linkedin-light.svg"/>][linkedin]
-
-
 [![website](./img/globe-light.svg)](http://maduraprasad.ml#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](http://maduraprasad.ml#gh-dark-mode-only)
 &nbsp;&nbsp;
