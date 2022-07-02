@@ -9,7 +9,7 @@
 
 [![website](./img/globe-light.svg)](http://maduraprasad.ml#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](http://maduraprasad.ml#gh-dark-mode-only)
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/madura-prasad#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/madura-prasad#gh-dark-mode-only)
 &nbsp;&nbsp;&nbsp;&nbsp;
