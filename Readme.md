@@ -1,5 +1,5 @@
-# Hi there, I'm [Madura Prasad][website].
-## I'm a Undergraduate Student & Mobile App Developer!
+## Hi there, I'm [Madura Prasad][website].
+### I'm a Undergraduate Student & Mobile App Developer!
 - 🌱 I’m currently learning everything 
 - 🥅 2022 Goals: Learn more about app development
 - ⚡ Fun fact: I love to code and listening music
