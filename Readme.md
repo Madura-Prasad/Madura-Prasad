@@ -1,11 +1,11 @@
-### Hi there, I'm [Madura Prasad][website]
+&nbsp;&nbsp; ### Hi there, I'm [Madura Prasad][website]
 
-## I'm a Undergraduate Student & Developer!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about app development
-- ⚡ Fun fact: I love to code and listening music
+&nbsp;&nbsp; ## I'm a Undergraduate Student & Developer!
+&nbsp;&nbsp; - 🌱 I’m currently learning everything 🤣
+&nbsp;&nbsp; - 🥅 2022 Goals: Learn more about app development
+&nbsp;&nbsp; - ⚡ Fun fact: I love to code and listening music
 
-### Connect with me:
+&nbsp;&nbsp; ### Connect with me:
 
 [![website](./img/globe-light.svg)](http://maduraprasad.ml#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](http://maduraprasad.ml#gh-dark-mode-only)
