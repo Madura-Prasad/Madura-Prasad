@@ -1,4 +1,4 @@
-###Hi there, I'm [Madura Prasad][website]. I am a self-motivated and hardworking person looking for work in the IT sector. I'm passionate about breaking down barriers through creativity and gaining new skills. I'm inspired by my happiness, ambition, and appreciation for what I do and strive for. I'm motivated by a desire to be the best version of myself.
+### Hi there, I'm [Madura Prasad][website]. I am a self-motivated and hardworking person looking for work in the IT sector. I'm passionate about breaking down barriers through creativity and gaining new skills. I'm inspired by my happiness, ambition, and appreciation for what I do and strive for. I'm motivated by a desire to be the best version of myself.
 
 ## I'm a Undergraduate Student & Developer!
 - 🌱 I’m currently learning everything 🤣
