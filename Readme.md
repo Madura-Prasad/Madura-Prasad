@@ -35,7 +35,7 @@
 
 [<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][github]
 
-[<img align="left" alt="Figma" width="30px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg)" style="padding-right:10px;" />][github]
+[<img align="left" alt="Figma" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" style="padding-right:10px;" />][github]
 
 
 <br/>
