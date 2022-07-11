@@ -11,6 +11,9 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/madura-prasad#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/madura-prasad#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/madura__prasad/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/madura__prasad/#gh-dark-mode-only)
 
 
 
@@ -51,3 +54,4 @@
 [website]: http://maduraprasad.ml
 [linkedin]: https://www.linkedin.com/in/madura-prasad
 [github]: https://github.com/Madura-Prasad
+[instergram]: https://www.instagram.com/madura__prasad/
