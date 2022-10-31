@@ -15,8 +15,8 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/madura__prasad/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/madura__prasad/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://www.instagram.com/madura__prasad/#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://www.instagram.com/madura__prasad/#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/Madura__Prasad/#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Madura__Prasad/#gh-dark-mode-only)
 
 
 
