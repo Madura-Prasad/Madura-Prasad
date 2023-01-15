@@ -54,7 +54,7 @@
 
 
 
-[website]: [http://maduraprasad.ml](https://madura-prasad.github.io/Madura.github.io/index.html)
+[website]: https://madura-prasad.github.io/Madura.github.io/index.html
 [linkedin]: https://www.linkedin.com/in/madura-prasad
 [github]: https://github.com/Madura-Prasad
 [instergram]: https://www.instagram.com/madura__prasad/
