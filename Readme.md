@@ -6,8 +6,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://madura-prasad.github.io/Madura.github.io/index.html#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://madura-prasad.github.io/Madura.github.io/index.html#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://madura-prasad.github.io/Madura.github.io#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://madura-prasad.github.io/Madura.github.io#gh-dark-mode-only)
 &nbsp;&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/madura-prasad#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/madura-prasad#gh-dark-mode-only)
@@ -54,7 +54,7 @@
 
 
 
-[website]: https://madura-prasad.github.io/Madura.github.io/index.html
+[website]: https://madura-prasad.github.io/Madura.github.io
 [linkedin]: https://www.linkedin.com/in/madura-prasad
 [github]: https://github.com/Madura-Prasad
 [instergram]: https://www.instagram.com/madura__prasad/
