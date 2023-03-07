@@ -54,7 +54,7 @@
 
 
 
-[website]: https://madura-prasad.github.io/Madura.github.io
+[website]: maduraprasad.netlify.app
 [linkedin]: https://www.linkedin.com/in/madura-prasad
 [github]: https://github.com/Madura-Prasad
 [instergram]: https://www.instagram.com/madura__prasad/
