@@ -6,8 +6,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](maduraprasad.netlify.app#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](maduraprasad.netlify.app#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](maduraprasad.netlify.app/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](maduraprasad.netlify.app/#gh-dark-mode-only)
 &nbsp;&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/madura-prasad#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/madura-prasad#gh-dark-mode-only)
