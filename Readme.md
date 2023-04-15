@@ -1,7 +1,7 @@
 ## Hi there, I'm [Madura Prasad][website]
 ### I'm a Undergraduate Student
 - 🌱 I’m currently learning everything 
-- 🥅 2023 Goals: Learn more about software development
+- 🥅 2023 Goals: Learn more about Spring Bot
 - ⚡ Fun fact: I love to code and listening music
 
 ### Connect with me:
