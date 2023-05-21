@@ -22,8 +22,6 @@
 [![website](./img/twitter-dark.svg)](https://twitter.com/Madura__Prasad/#gh-dark-mode-only)
 
 
-Feel free to reach out to me for collaboration or any software development opportunities. Let's create something awesome together! 
-
 
 ### Language and Tools:
 
@@ -51,9 +49,8 @@ Feel free to reach out to me for collaboration or any software development oppor
 
 [<img align="left" alt="Figma" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" style="padding-right:10px;" />][github]
 
-<br/>
-<br/>
-<br/>
+Feel free to reach out to me for collaboration or any software development opportunities. Let's create something awesome together! 
+
 
 
 
