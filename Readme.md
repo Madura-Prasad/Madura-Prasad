@@ -1,5 +1,5 @@
 ## Hi there, I'm [Madura Prasad][website]
-### I'm a Undergraduate Student
+### I'm a Undergraduate Student,
 - 🌱 Currently exploring new technologies and frameworks.
 - 💻 Always excited to collaborate on open-source projects.
 - 👨‍💻 Constantly learning and improving my skills.
