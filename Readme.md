@@ -1,7 +1,11 @@
 ## Hi there, I'm [Madura Prasad][website]
 ### I'm a Undergraduate Student
-- 🌱 I’m currently learning everything 
-- ⚡ Fun fact: I love to code and listening music
+🌱 Currently exploring new technologies and frameworks.
+- 💻 Always excited to collaborate on open-source projects.
+- 👨‍💻 Constantly learning and improving my skills.
+- 📚 Strong advocate for clean and maintainable code.
+- 🚀 Enthusiastic about creating innovative and user-friendly applications.
+
 
 ### Connect with me:
 
