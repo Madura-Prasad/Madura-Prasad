@@ -21,7 +21,13 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/Madura__Prasad/#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Madura__Prasad/#gh-dark-mode-only)
 
+<br/>
+<br/>
 
+#### Feel free to reach out to me for collaboration or any software development opportunities. Let's create something awesome together! 
+
+<br/>
+<br/>
 
 ### Language and Tools:
 
@@ -53,7 +59,7 @@
 <br/>
 <br/>
 
-#### Feel free to reach out to me for collaboration or any software development opportunities. Let's create something awesome together! 
+
 
 
 
