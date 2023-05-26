@@ -53,7 +53,6 @@
 ### Feel free to reach out to me for collaboration or any software development opportunities.Let's create something awesome together! 
 
 <br/><br/>
-<br/><br/>
 
 ### 🗃 Contributions
 <p align = "center">
