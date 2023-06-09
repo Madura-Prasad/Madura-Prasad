@@ -61,14 +61,6 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Madura-Prasad&theme=dark&hide_border=true" alt = "Madurs's Rating" width = 400 height = 350 >
 </p>
 
-### 🎓 Achievements
-<p align = "center">
-  <img src = "https://github-profile-trophy.vercel.app/?username=Madura-Prasad&theme=nord&margin-w=15&margin-h=15&&no-frame=true&row=1" width = 800 >
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
 
 
 
