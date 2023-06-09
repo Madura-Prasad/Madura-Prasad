@@ -54,13 +54,6 @@
 
 <br/><br/>
 
-### 🗃 Contributions
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Madura-Prasad&count_private=true&theme=dark&hide_border=true" alt = "Madura's Contribution" width = 400 height = 350 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Madura-Prasad&theme=dark&hide_border=true" alt = "Madurs's Rating" width = 400 height = 350 >
-</p>
-
 
 
 
