@@ -24,7 +24,7 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/Madura__Prasad/#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Madura__Prasad/#gh-dark-mode-only)
 
- <img src="https://komarev.com/ghpvc/?username=Madura-Prasad&label=Profile%20views&color=0e75b6&style=flat" alt="Madura-Prasad" />
+<img src="https://komarev.com/ghpvc/?username=Madura-Prasad&label=Profile%20views&color=0e75b6&style=flat" alt="Madura-Prasad" />
 
 
 
