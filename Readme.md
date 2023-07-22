@@ -1,7 +1,5 @@
 ## Hi there, I'm [Madura Prasad][website]
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Madura-Prasad&label=Profile%20views&color=0e75b6&style=flat" alt="measuditha" /> 
-</p>
+  <img src="https://komarev.com/ghpvc/?username=Madura-Prasad&label=Profile%20views&color=0e75b6&style=flat" alt="Madura-Prasad" /> 
 ### I'm an Undergraduate Student
 - 🌱 Currently exploring new technologies and frameworks.
 - 💻 Always excited to collaborate on open-source projects.
