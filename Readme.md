@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
- <img src="https://komarev.com/ghpvc/?username=Madura-Prasad&label=Profile%20views&color=0e75b6&style=flat" alt="Madura-Prasad" />
+
 
 [![website](./img/globe-light.svg)](https://maduraprasad.netlify.app/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://maduraprasad.netlify.app/#gh-dark-mode-only)
@@ -23,6 +23,8 @@
 &nbsp;&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/Madura__Prasad/#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Madura__Prasad/#gh-dark-mode-only)
+
+ <img src="https://komarev.com/ghpvc/?username=Madura-Prasad&label=Profile%20views&color=0e75b6&style=flat" alt="Madura-Prasad" />
 
 
 
